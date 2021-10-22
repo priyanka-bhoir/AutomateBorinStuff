@@ -1,2 +1,2 @@
 # AutomateBorinStuff [website][website]
-[![website](https://automatetheboringstuff.com/)][website]
+[website]: https://automatetheboringstuff.com/
